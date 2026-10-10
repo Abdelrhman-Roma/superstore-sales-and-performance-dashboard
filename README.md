@@ -12,7 +12,7 @@ The project transforms raw Superstore sales data into meaningful business insigh
 
 This page provides a high-level overview of the business's sales and profitability.
 
-![Executive Overview Dashboard](screenshots/executive_overview.png)
+![Executive Overview Dashboard](screenshots/page1.png)
 
 **Key metrics and visualizations:**
 - Total Sales
@@ -29,7 +29,7 @@ This page provides a high-level overview of the business's sales and profitabili
 
 This page analyzes product-level performance and identifies products that generate high revenue but have negative profit.
 
-![Product and Sales Performance Dashboard](screenshots/product_sales_performance.png)
+![Product and Sales Performance Dashboard](screenshots/page2.png)
 
 **Key analyses:**
 - Top 10 Products by Sales
@@ -42,7 +42,7 @@ This page analyzes product-level performance and identifies products that genera
 
 This page explores customer value and compares business performance across geographic regions.
 
-![Customer and Regional Analysis Dashboard](screenshots/customer_regional_analysis.png)
+![Customer and Regional Analysis Dashboard](screenshots/page3.png)
 
 **Key analyses:**
 - Top 10 Customers by Sales
